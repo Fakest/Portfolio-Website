@@ -29,7 +29,7 @@ const Page = () => {
                     <Paragraph>
                         Harry is a driven and enthusiastic young engineer who is still developing and honing his craft.
                         He has a passion for learning and self improvement, constantly striving to do better than his previous attempts.
-                        When not working, Harry takes part in many hobbies. Skateboarding, Photography, Guitar to name a few.                
+                        When not working, Harry takes part in many hobbies. Skateboarding, Photography and Guitar to name a few.                
                     </Paragraph>
                     <Box align="center" my={4}>
                         <NextLink href="/works">
